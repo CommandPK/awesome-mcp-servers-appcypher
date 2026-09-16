@@ -429,6 +429,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for accessing many apps and tools through a single MCP server..
 
+- <img height="12" width="12" src="https://commandplusk.com/favicon.ico" alt="Command+K Logo" /> [Command+K](https://commandplusk.com) - Hosted MCP gateway that puts your team's tools (Linear, Notion, GitHub, and more) behind one endpoint, for an in-product AI assistant to use as the signed-in user.
+
 - <img height="12" width="12" src="https://github.com/mcpjungle/MCPJungle/blob/main/assets/logo.png" alt="MCPJungle Logo" /> [MCPJungle](https://github.com/mcpjungle/MCPJungle) - Self-hosted MCP Registry and Proxy for enterprise AI Agents.
 
 - <img height="12" width="12" src="https://platform.composio.dev/favicon.ico" alt="Composio Logo"> **[Rube](https://rube.composio.dev)** - Rube is a Model Context Protocol (MCP) server that connects your AI tools to 500+ apps like Gmail, Slack, GitHub, and Notion. Simply install it in your AI client, authenticate once with your apps, and start asking your AI to perform real actions like "Send an email" or "Create a task."
